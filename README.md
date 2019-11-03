@@ -1,4 +1,4 @@
-# images-in-readme
+# Add Image in README
 
 ## Overview
 Use github issues to host images
