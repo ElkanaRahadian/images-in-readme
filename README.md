@@ -14,7 +14,7 @@ Use github issues to host images
 3. Create new issue
 4. Drag the image
 5. Copy the image link
-6. Paste in the readme file
+6. Paste in the Readme file
 
 
 ## Usage
