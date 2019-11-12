@@ -5,7 +5,7 @@ Use github issues to host images
 
 ## Features
 - Adding images to Readme.md
-- Just drag and drop in selected repository
+- Drag and drop in selected repository
 - No external image hosting needed
 
 ## Setup & Installation 
