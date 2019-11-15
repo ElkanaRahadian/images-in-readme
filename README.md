@@ -1,7 +1,7 @@
 # Add Image in README
 
 ## Overview
-Use github issues to host images
+Host Images using github issues
 
 ## Features
 - Adding images to Readme.md
