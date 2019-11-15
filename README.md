@@ -1,4 +1,4 @@
-# Add Image in README
+# Adding Image in README
 
 ## Overview
 Host Images using github issues
