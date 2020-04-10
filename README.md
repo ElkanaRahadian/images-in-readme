@@ -18,6 +18,6 @@ Hosting Images in Readme using github issues
 
 
 ## Usage
-Successfullly Hosted image :
+Hosted image example :
 
 ![screenshot for readme example](https://user-images.githubusercontent.com/56164259/67871693-5a7d3580-fb63-11e9-8940-7626cade4852.png)
