@@ -3,7 +3,7 @@
 ## Overview
 Host Images in Readme using github issues
 
-## Features
+## Featuresa
 - Adding images to Readme.md
 - Drag and drop in selected repository
 - No external image hosting needed
