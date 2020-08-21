@@ -11,7 +11,7 @@ Host Images in Readme using github issues
 ## Setup & Installation 
 1. Create a new repository
 2. Open issues tab
-3. Create new issue
+3. Create new issuea
 4. Drag the image
 5. Copy the image link
 6. Paste the link in the Readme file
